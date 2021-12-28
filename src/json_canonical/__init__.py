@@ -1,1 +1,1 @@
-from Canonicalize import canonicalize
+from json_canonical.Canonicalize import canonicalize
