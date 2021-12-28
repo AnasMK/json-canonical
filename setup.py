@@ -13,7 +13,7 @@ def read_file(path):
 
 setup(
     name='json-canonical',
-    version='1.0.0',
+    version='1.0.1',
     author='Anas Kanhouch',
     author_email='anas.m.kan@gmail.com',
     packages=find_packages('src'),
